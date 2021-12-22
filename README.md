@@ -1,5 +1,5 @@
 # Analog-Communication
- Low Pass Filter, High Pass Filter  AND Frequency MOdulator Using NI-Multisim
+ Low Pass Filter, High Pass Filter  AND *Frequency Modulator* Using NI-Multisim
     
     
     FREQUENCY MODULATOR CRKT AND WAVE-FORM
